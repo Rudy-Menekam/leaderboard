@@ -45,6 +45,8 @@
 ### Key Features <a name="key-features"></a>
 
 > **[Add CRUD method (Add,remove, update,delete)]**
+> **[Improve the look and feel of the UI]**
+> **[Integrate API]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -116,7 +118,7 @@ git and github pages
 
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **Rudy Menekam**
 
@@ -165,7 +167,6 @@ I would like to thank Microverse, for my project original template design.
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 - **[Do you need node installed to run this project?]**
   - [Yes]
 
