@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+.content {
+  display: flex;
+  gap: 160px;
+}
+
+.section-side2 {
+  width: 226px;
+}
+
+.btn-1 {
+  margin-top: 20px;
+  margin-left: 55px;
+}
+
+.section-side1 {
+  display: -webkit-inline-box;
+}
+
+.btn-2 {
+  margin-left: 127px;
+}
