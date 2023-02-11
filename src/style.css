@@ -3,23 +3,6 @@ body {
   justify-content: center;
 }
 
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td,
-th {
-  border: 1px solid #ddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #ddd;
-}
-
 .content {
   display: flex;
   gap: 160px;
@@ -27,6 +10,8 @@ tr:nth-child(even) {
 
 .section-side2 {
   width: 226px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .btn-1 {
@@ -40,4 +25,15 @@ tr:nth-child(even) {
 
 .btn-2 {
   margin-left: 127px;
+}
+
+.list {
+  list-style-type: none;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.list:nth-child(even) {
+  background-color: rgb(231, 227, 227);
 }
