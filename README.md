@@ -28,7 +28,7 @@
 
 > **Leaderboard list app**
 
-## 🛠 Built With <a name="built-with">HTML, CSS & JavaScript</a>
+## 🛠 Built With <a name="built-with">HTML, CSS & JavaScript, API's</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -39,6 +39,7 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
     <li><a href="https://www.w3schools.com/js/default.asp">JS</a></li>
     <li><a href="https://github.com">GIT/Github</a></li>
+    <li><a href="https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3">API</a></li>
   </ul>
 </details>
 
